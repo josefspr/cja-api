@@ -39,7 +39,8 @@
             "title":"Synagogue in Pryluky",
             "source":"The Center for Jewish Art",
             "source_url":"https://cja.huji.ac.il/",
-            "copyrights":"Center for Jewish Art"},
+            "copyrights":"Center for Jewish Art"}
+        ],
         "tags":["synagogue", "ashkenazi"]
         }, 
         {"id": 7596,
@@ -75,6 +76,7 @@
             "source":"The Center for Jewish Art",
             "source_url":"https://cja.huji.ac.il/",
             "copyrights":"Olena Andronatiy"}
+            ],
         "tags":["synagogue", "ashkenazi"]
         }, 
         {"id": 7582,
@@ -110,6 +112,7 @@
             "source":"The Center for Jewish Art",
             "source_url":"https://cja.huji.ac.il/",
             "copyrights":"Katrin Kessler"}
+            ],
         "tags":["synagogue", "ashkenazi", "torah ark"]
         }
     ]
@@ -132,7 +135,7 @@
         "zoomlevel":"city",
         "alt_name":[ ],
         "events_count":1}    
-    ]
+    ],
     "projects": [
         {"id":1,
         "researchers":["Vladimir Levin"],
