@@ -12,7 +12,7 @@
             "zoomlevel":"city",
             "alt_name":[ ],
             "events_count":1},
-        "description":"<p>Origin: Pryluky (Priluki)|Chernihivs'ka obl.|Ukraine<br><a href="https://cja.huji.ac.il/browser.php?mode=set&id=7997">Link to page in CJA</a><p>"
+        "description":"<p>Origin: Pryluky (Priluki)|Chernihivs'ka obl.|Ukraine<br><a href='https://cja.huji.ac.il/browser.php?mode=set&id=7997'>Link to page in CJA</a><p>"
         "icon":"https://cja.huji.ac.il/images_db/nli_pics/HUB_30000/000/CJA_30025/deliverable/A030515.jpg",
         "map_context":"country",
         "project":1, 
@@ -40,7 +40,7 @@
             "source":"The Center for Jewish Art",
             "source_url":"https://cja.huji.ac.il/",
             "copyrights":"Center for Jewish Art"},
-        "tags":["synagogue", "ashkenazi"] }
+        "tags":["synagogue", "ashkenazi"]
         }, 
         {"id": 7596,
         "title": "Great Synagogue in Uman",
@@ -75,12 +75,12 @@
             "source":"The Center for Jewish Art",
             "source_url":"https://cja.huji.ac.il/",
             "copyrights":"Olena Andronatiy"}
-        "tags":["synagogue", "ashkenazi"] }
+        "tags":["synagogue", "ashkenazi"]
         }, 
         {"id": 7582,
         "title": "Torah ark, Synagogue in Cavaillon",
         "subtitle":"",
-        "start_date":"1773-00-00", /* see data conversion spec */
+        "start_date":"1773-00-00",
         "circa_date":false,
         "place":
             {"id":9930,
@@ -110,7 +110,7 @@
             "source":"The Center for Jewish Art",
             "source_url":"https://cja.huji.ac.il/",
             "copyrights":"Katrin Kessler"}
-        "tags":["synagogue", "ashkenazi", "torah ark"] }
+        "tags":["synagogue", "ashkenazi", "torah ark"]
         }
     ]
     "places": [
